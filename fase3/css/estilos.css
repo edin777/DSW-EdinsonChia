@@ -53,8 +53,8 @@ main{
     position: absolute;
     background-color: rgba(255, 255, 255, 0.6);
     padding: 10px;
-    left: 20%;
-    top: 200px;
+    left: 15%;
+    top: 250px;
     transform: translate(-50%, 50%);
   }
   
