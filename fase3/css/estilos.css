@@ -14,5 +14,5 @@ footer{
     background-color: rgb(247, 247, 157);
 }
 main{
-
+    display: grid;
 }
