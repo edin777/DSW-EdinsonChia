@@ -1,19 +1,19 @@
 header{
-    background-color: beige;
+    background-color: #94B49F;
 }
 nav{
-    background-color: bisque;
+    background-color: #CEE5D0;
 }
 section{
     grid-column: 1/4;
-    background-color: blanchedalmond;
+    background-color: #FCF8E8;
 }
 aside{
     grid-column: 4/5;
-    background-color: aquamarine;
+    background-color: #b9e7c9;
 }
 footer{
-    background-color: rgb(247, 247, 157);
+    background-color: #94B49F;
 }
 main{
     display: grid;
