@@ -5,9 +5,11 @@ nav{
     background-color: bisque;
 }
 section{
+    grid-column: 1/4;
     background-color: blanchedalmond;
 }
 aside{
+    grid-column: 4/5;
     background-color: aquamarine;
 }
 footer{
@@ -15,4 +17,5 @@ footer{
 }
 main{
     display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
 }
