@@ -46,23 +46,23 @@ main{
 }
 
 .menu li ul{
-    display: none;
+    display:none;
     margin-left: auto;
     margin-right: auto;
     position: absolute;
-    min-width: 140px;
+    min-width: 50px;
 }
 
 .menu li:hover > ul{
-    display: block;
+    display:block;
 }
 
 .menu li ul li{
-    position: relative;
+    position: absolute;
 }
 
 .menu li ul li{
-    right: 140px;
+    right: 40px;
 }
 
 #html_slider{
