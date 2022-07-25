@@ -24,6 +24,7 @@ main{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    
 }
 
 #html_slider{
