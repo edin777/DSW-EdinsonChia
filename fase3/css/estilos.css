@@ -52,7 +52,7 @@ main{
     margin-left: auto;
     margin-right: auto;
     position: absolute;
-    max-width: 140px;
+    min-width: 140px;
 }
 
 .menu li:hover > ul{
