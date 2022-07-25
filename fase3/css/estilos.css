@@ -30,7 +30,7 @@ main{
 }
 
 .menu > li{
-    float: right;
+    float: inline-start;
 }
 
 .menu li a{
@@ -50,7 +50,7 @@ main{
     margin-left: auto;
     margin-right: auto;
     position: absolute;
-    min-width: 50px;
+    min-width: 70px;
 }
 
 .menu li:hover > ul{
@@ -58,7 +58,7 @@ main{
 }
 
 .menu li ul li{
-    position: absolute;
+    position: relative;
 }
 
 .menu li ul li{
