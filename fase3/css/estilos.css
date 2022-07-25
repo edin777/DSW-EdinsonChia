@@ -3,12 +3,12 @@ header{
     display: flex;
     padding: 20px;
     flex-direction: row;
-    justify-content: last baseline;
     flex-wrap: wrap;
     color: #223529;
-    position: relative;
-    font-family: Arial, Helvetica, sans-serif;
-    
+}
+
+.head h1{
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 section{
