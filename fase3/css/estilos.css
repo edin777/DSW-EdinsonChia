@@ -1,9 +1,7 @@
 header{
     background-color: #94B49F;
 }
-nav{
-    background-color: #CEE5D0;
-}
+
 section{
     grid-column: 1/4;
     background-color: #FCF8E8;
