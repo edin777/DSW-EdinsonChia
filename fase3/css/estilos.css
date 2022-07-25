@@ -38,6 +38,38 @@ main{
     float: left;
 }
 
+.menu li a{
+    background-color: rgb(41, 56, 56);
+    color: #FCF8E8;
+    text-decoration: none;
+    padding: 20px 80px;
+    display: block;
+}
+
+.menu li a:hover{
+    background-color: #c9b95e;
+}
+
+.menu li ul{
+    display: none;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    max-width: 140px;
+}
+
+.menu li:hover > ul{
+    display: block;
+}
+
+.menu li ul li{
+    position: relative;
+}
+
+.menu li ul li{
+    right: 140px;
+}
+
 #html_slider{
     font-family: sans-serif;
     margin: auto;
