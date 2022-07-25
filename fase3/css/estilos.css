@@ -71,7 +71,7 @@ main{
     position: absolute;
     background-color: rgba(255, 255, 255, 0.6);
     padding: 7px;
-    left: 25%;
+    left: 15%;
     top: 230px;
     transform: translate(-50%, 50%);
   }
