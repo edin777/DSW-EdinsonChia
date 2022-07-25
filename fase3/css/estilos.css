@@ -24,7 +24,18 @@ main{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    
+    padding: 0px 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.menu > li{
+    float: left;
 }
 
 #html_slider{
