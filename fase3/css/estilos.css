@@ -21,9 +21,6 @@ main{
 }
 
 .menu{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
     padding: 0px 20px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -138,11 +135,11 @@ main{
   }
   
   #html_slider > ul.slider li:first-child {
-      opacity: 1; /*Mostramos el primer <li>*/
+      opacity: 1;
   }
   
   #html_slider > ul.slider li:target {
-      opacity: 1; /*Mostramos el <li> del enlace que pulsemos*/
+      opacity: 1;
   }
   
   #html_slider > .menu{
