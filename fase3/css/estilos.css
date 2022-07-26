@@ -16,7 +16,29 @@ header{
 section{
     grid-column: 1/4;
     background-color: #FCF8E8;
+    font-family: sans-serif;
 }
+
+.justi{
+  text-align: justify;
+  margin-right: 10px;
+}
+
+.justi_2{
+  text-align: justify; 
+  margin-right: 10px; 
+}
+
+.justi_3{
+  text-align: justify; 
+  margin-right: 10px; 
+}
+
+.justi_4{
+  text-align: justify; 
+  margin-right: 10px; 
+}
+
 aside{
     grid-column: 4/5;
     background-color: #b9e7c9;
